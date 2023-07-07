@@ -2,18 +2,22 @@
 KELOMPOK 5
 README.md
 UAS-OOP-KELOMPOK 5 : Penjualan Mobil Sederhana
-Daftar nama anggota :
-
-Husnul Wansyah (21103025)
+# Daftar nama anggota :
+Komang Ayu Sri Iswari (21103001)
 Ni Putu Yunita Gauri (21103008)
 Sita Ananda Dwi Febriani (21103022)
-Komang Ayu Sri Iswari (21103001)
+Husnul Wansyah (21103025)
+
+
+# NETBEANS
 Kami Menggunakan Versi NeatBeans 8.2
 Jadi sudah Include MySQL JDBC DRIVE
 
+# JDK
 Versi JDK 8.0.2210.11
 Dowload JDK here : https://drive.google.com/drive/folders/1tVvv6eDOB5_6QDhBrTkO9tu_tJ959pbS?usp=sharing
 
+# JAR LIBRARY
 Add Jar Library yang dipakai
 commons-beanutils-1.8.0.jar
 commons-collections-2.1.1.jar
